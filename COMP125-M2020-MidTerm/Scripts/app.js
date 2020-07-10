@@ -12,50 +12,50 @@ let intro = document.createTextNode("This is intro paragraph.")[0];      // Crea
 para.appendChild(t);                                          // Append the text to <p>
 document.getElementById("IntroParagraph").appendChild(para);           // Append <p> to <div> with id="container"
 
-let para = document.createElement("P");                       // Create a <p> node
-let folegandros = document.createTextNode("This is second paragraph.")[1];      // Create a text node
-para.appendChild(t);                                          // Append the text to <p>
-document.getElementById("Folegandros").appendChild(para);           // Append <p> to <div> with id="container"
+let para = document.createElement("P");                       
+let folegandros = document.createTextNode()[1];      
+para.appendChild(t);                                          
+document.getElementById("Folegandros").appendChild(para);           
 
-let para = document.createElement("P");                       // Create a <p> node
-let t = document.createTextNode("This is third paragraph.")[2];      // Create a text node
-para.appendChild(t);                                          // Append the text to <p>
-document.getElementById("Alonissos").appendChild(para);           // Append <p> to <div> with id="container"
+let para = document.createElement("P");                      
+let t = document.createTextNode()[2];      
+para.appendChild(t);                                          
+document.getElementById("Alonissos").appendChild(para);           
 
-let para = document.createElement("P");                       // Create a <p> node
-let t = document.createTextNode("This is a paragraph.")[3];      // Create a text node
-para.appendChild(t);                                          // Append the text to <p>
-document.getElementById("Spetses").appendChild(para);           // Append <p> to <div> with id="container"
+let para = document.createElement("P");                       
+let t = document.createTextNode()[3];      
+para.appendChild(t);                                          
+document.getElementById("Spetses").appendChild(para);           
 
-let para = document.createElement("P");                       // Create a <p> node
-let t = document.createTextNode("This is a paragraph.");      // Create a text node
-para.appendChild(t);                                          // Append the text to <p>
-document.getElementById("Amorgos").appendChild(para);           // Append <p> to <div> with id="container"
+let para = document.createElement("P");                       
+let t = document.createTextNode()[4];     
+para.appendChild(t);                                          
+document.getElementById("Amorgos").appendChild(para);           
 
-let para = document.createElement("P");                       // Create a <p> node
-let t = document.createTextNode("This is a paragraph.");      // Create a text node
-para.appendChild(t);                                          // Append the text to <p>
-document.getElementById("Syros").appendChild(para);           // Append <p> to <div> with id="container"
+let para = document.createElement("P");                       
+let t = document.createTextNode()[5];      
+para.appendChild(t);                                          
+document.getElementById("Syros").appendChild(para);           
 
-let para = document.createElement("P");                       // Create a <p> node
-let t = document.createTextNode("This is a paragraph.");      // Create a text node
-para.appendChild(t);                                          // Append the text to <p>
-document.getElementById("Milos").appendChild(para);           // Append <p> to <div> with id="container"
+let para = document.createElement("P");                       
+let t = document.createTextNode()[6];     
+para.appendChild(t);                                          
+document.getElementById("Milos").appendChild(para);           
 
-let para = document.createElement("P");                       // Create a <p> node
-let t = document.createTextNode("This is a paragraph.");      // Create a text node
-para.appendChild(t);                                          // Append the text to <p>
-document.getElementById("Hydra").appendChild(para);           // Append <p> to <div> with id="container"
+let para = document.createElement("P");                       
+let t = document.createTextNode()[7];      
+para.appendChild(t);                                          
+document.getElementById("Hydra").appendChild(para);           
 
-let para = document.createElement("P");                       // Create a <p> node
-let t = document.createTextNode("This is a paragraph.");      // Create a text node
-para.appendChild(t);                                          // Append the text to <p>
-document.getElementById("Ithaca").appendChild(para);           // Append <p> to <div> with id="container"
+let para = document.createElement("P");                       
+let t = document.createTextNode()[8];      
+para.appendChild(t);                                          
+document.getElementById("Ithaca").appendChild(para);           
 
-let para = document.createElement("P");                       // Create a <p> node
-let t = document.createTextNode("This is a paragraph.");      // Create a text node
-para.appendChild(t);                                          // Append the text to <p>
-document.getElementById("Gavdos").appendChild(para)[9];           // Append <p> to <div> with id="container"
+let para = document.createElement("P");                       
+let t = document.createTextNode()[9];      
+para.appendChild(t);                                          
+document.getElementById("Gavdos").appendChild(para)[9];           
 
 }
 
